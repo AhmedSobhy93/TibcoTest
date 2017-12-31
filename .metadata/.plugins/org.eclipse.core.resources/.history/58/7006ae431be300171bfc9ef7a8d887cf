@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Egy9oOMWEee267ZCD_TKvA" id="_xmrScOMUEee267ZCD_TKvA" label="MySqlLocalhost" creationDate="2017-12-17T13:35:58.965+0300" modificationDate="2017-12-17T13:35:59.091+0300" version="0.1" statusCode="" item="_Egy9ouMWEee267ZCD_TKvA" displayName="MySqlLocalhost">
+    <author href="../../talend.project#_THt2AnzUEeeAc4ShgJwEAA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Egy9oeMWEee267ZCD_TKvA" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_Egy9ouMWEee267ZCD_TKvA" property="_Egy9oOMWEee267ZCD_TKvA" state="_Egy9oeMWEee267ZCD_TKvA">
+    <connection href="MySqlLocalhost_0.1.item#_EgyWkOMWEee267ZCD_TKvA"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

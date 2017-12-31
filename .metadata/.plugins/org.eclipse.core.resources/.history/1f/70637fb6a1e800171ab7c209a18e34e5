@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_U6WREN5XEeeQoqDnezAgUg" id="_U6NHIN5XEeeQoqDnezAgUg" label="AW_To_HDS" purpose="Copy AW data to HDS for emite" creationDate="2017-12-11T12:40:30.482+0300" modificationDate="2017-12-24T14:46:26.729+0300" version="0.1" statusCode="" item="_U6WREt5XEeeQoqDnezAgUg" displayName="AW_To_HDS">
+    <author href="../talend.project#_THt2AnzUEeeAc4ShgJwEAA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_U6WREd5XEeeQoqDnezAgUg" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_U6WREt5XEeeQoqDnezAgUg" property="_U6WREN5XEeeQoqDnezAgUg" state="_U6WREd5XEeeQoqDnezAgUg">
+    <process href="AW_To_HDS_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

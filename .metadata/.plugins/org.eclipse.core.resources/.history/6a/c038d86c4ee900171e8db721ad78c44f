@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_2B25wOMTEee267ZCD_TKvA" id="_2Bz2cOMTEee267ZCD_TKvA" label="TestJob" purpose="loadDataFromEmpDB" creationDate="2017-12-17T13:20:02.778+0300" modificationDate="2017-12-25T11:31:36.598+0300" version="0.1" statusCode="" item="_2B25wuMTEee267ZCD_TKvA" displayName="TestJob">
+    <author href="../talend.project#_THt2AnzUEeeAc4ShgJwEAA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_2B25weMTEee267ZCD_TKvA" path="" locked="true" lockDate="2017-12-25T11:13:32.226+0300">
+    <locker href="../talend.project#_THt2AnzUEeeAc4ShgJwEAA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_2B25wuMTEee267ZCD_TKvA" property="_2B25wOMTEee267ZCD_TKvA" state="_2B25weMTEee267ZCD_TKvA">
+    <process href="TestJob_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

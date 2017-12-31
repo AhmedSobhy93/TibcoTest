@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="__pUbsYsNEeeTAPw0X8g3bA" id="__pUbsIsNEeeTAPw0X8g3bA" label="Copy_All_till_23" purpose="copy all data before 2017-08-24" description="IVR_AGENT_EXIT&#xD;&#xA;IVR_BILL_SAVED&#xD;&#xA;IVR_FINANCIAL_TXN&#xD;&#xA;IVR_LOGIN_FAILURE&#xD;&#xA;IVR_REGISTRATION&#xD;&#xA;IVR_REGISTRATION_STATS&#xD;&#xA;SURVEY" creationDate="2017-08-27T12:56:28.011+0300" modificationDate="2017-12-25T11:38:47.594+0300" version="0.1" statusCode="" item="__pUbs4sNEeeTAPw0X8g3bA" displayName="Copy_All_till_23">
+    <author href="../talend.project#_THt2AnzUEeeAc4ShgJwEAA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="__pUbsosNEeeTAPw0X8g3bA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="__pUbs4sNEeeTAPw0X8g3bA" property="__pUbsYsNEeeTAPw0X8g3bA" state="__pUbsosNEeeTAPw0X8g3bA">
+    <process href="Copy_All_till_23_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
